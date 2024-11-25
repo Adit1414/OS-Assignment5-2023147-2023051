@@ -10,3 +10,5 @@ Our MultiThreader implementation can efficiently parallelize both 1D and 2D loop
 - **1D Loops**: Directly parallelized using multiple threads.
 - **2D Loops**: Flattened into a 1D loop and then broken into smaller chunks for parallelization.
 
+## Github Repo:
+- https://github.com/Adit1414/OS-Assignment5-2023147-2023051.git
